@@ -27,6 +27,7 @@ h2 {
 
 .act {
     padding: 1rem;
+    margin-bottom: 5rem;
 }
 
 img {
@@ -45,7 +46,15 @@ p {
     text-align: center;
 }
 
-.grid_matin {
+.text-start {
+    text-align: start;
+}
+
+h3 {
+    padding: 1.5rem;
+}
+
+.grid {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
